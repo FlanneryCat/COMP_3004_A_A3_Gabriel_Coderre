@@ -1,5 +1,3 @@
-Gabriel Coderre
-
 3005 Assignment 03
 
 Files Included:
